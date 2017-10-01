@@ -1,0 +1,57 @@
+Initialize engine version: 4.1.5f1 (ed5ea3281df6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3221]
+    Renderer: NVIDIA GeForce GTX 770M
+    Vendor:   NVIDIA
+    VRAM:     2993 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.169 seconds
+desktop: 1024x768 60Hz; virtual: 1024x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 189.
+Total: 2.115171 ms (FindLiveObjects: 0.027369 ms CreateObjectMapping: 0.040627 ms MarkObjects: 0.437488 ms  DeleteObjects: 0.433640 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 373.
+Total: 1.722158 ms (FindLiveObjects: 0.053028 ms CreateObjectMapping: 0.030363 ms MarkObjects: 0.458016 ms  DeleteObjects: 0.031646 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 4268.
+Total: 3.227924 ms (FindLiveObjects: 0.453312 ms CreateObjectMapping: 0.079115 ms MarkObjects: 1.109759 ms  DeleteObjects: 0.337845 ms)
+
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\final year project\LostInTheDungeon\LITD_Data\Managed\Boo.Lang.dll (this message is harmless)
+Skipped rendering frame because GfxDevice is in invalid state (device lost)
+ 
+(Filename:  Line: 1385)
+
+HandleD3DDeviceLost
+  HandleD3DDeviceLost: needs reset, doing it
+FullResetD3DDevice
+ResetD3DDevice
+dev->Reset
+D3Dwindow device not lost anymore
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 209 unused Assets to reduce memory usage. Loaded Objects now: 199.
+Total: 13.681043 ms (FindLiveObjects: 0.040627 ms CreateObjectMapping: 0.048752 ms MarkObjects: 0.482820 ms  DeleteObjects: 11.851116 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 390.
+Total: 4.015660 ms (FindLiveObjects: 0.049180 ms CreateObjectMapping: 0.059871 ms MarkObjects: 0.475977 ms  DeleteObjects: 2.283666 ms)
+

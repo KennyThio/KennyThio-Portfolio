@@ -1,0 +1,42 @@
+Initialize engine version: 4.1.5f1 (ed5ea3281df6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.3182]
+    Renderer: NVIDIA GeForce GTX 770M
+    Vendor:   NVIDIA
+    VRAM:     2993 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 DF24=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\kenny_pinball\Pinball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\kennythio\Desktop\Unity Project\kenny_pinball\Pinball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\kennythio\Desktop\Unity Project\kenny_pinball\Pinball_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\kennythio\Desktop\Unity Project\kenny_pinball\Pinball_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.383 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 102.
+Total: 1.851316 ms (FindLiveObjects: 0.015395 ms CreateObjectMapping: 0.049180 ms MarkObjects: 0.399001 ms  DeleteObjects: 0.031218 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 300.
+Total: 1.847039 ms (FindLiveObjects: 0.038916 ms CreateObjectMapping: 0.024803 ms MarkObjects: 0.407554 ms  DeleteObjects: 0.021382 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 317.
+Total: 2.592869 ms (FindLiveObjects: 0.042337 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.434069 ms  DeleteObjects: 0.082109 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 1.796149 ms (FindLiveObjects: 0.037205 ms CreateObjectMapping: 0.037205 ms MarkObjects: 0.420384 ms  DeleteObjects: 0.037205 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 1.733283 ms (FindLiveObjects: 0.037633 ms CreateObjectMapping: 0.023520 ms MarkObjects: 0.403278 ms  DeleteObjects: 0.011974 ms)
+
